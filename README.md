@@ -48,6 +48,9 @@
 
 ![](https://velog.velcdn.com/images/y005/post/23e6f786-91aa-4fed-913c-b6d800e6d5fe/image.png)
 
-### 4. [REST API 문서](https://prgrms-be-devcourse.github.io/BE-02-Woowa/)
+### 4. CI/CD architecture
+![](https://velog.velcdn.com/images/y005/post/73911c96-e789-40af-b83d-ffd5b75962d7/image.png)
 
-### 5. [프로젝트 회고록](https://deluxe-mahogany-9ff.notion.site/daf8f5966ba44cf88758e5cb544ea182)
+### 5. [REST API 문서](https://prgrms-be-devcourse.github.io/BE-02-Woowa/)
+
+### 6. [프로젝트 회고록](https://deluxe-mahogany-9ff.notion.site/daf8f5966ba44cf88758e5cb544ea182)
